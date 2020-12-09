@@ -1,0 +1,17 @@
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\bin\Debug\Projeto.Domain.dll.config
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\bin\Debug\Projeto.Domain.dll
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\bin\Debug\Projeto.Domain.pdb
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\bin\Debug\AutoMapper.dll
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\bin\Debug\EntityFramework.dll
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\bin\Debug\EntityFramework.MappingAPI.dll
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\bin\Debug\AutoMapper.pdb
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\bin\Debug\AutoMapper.xml
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\bin\Debug\EntityFramework.xml
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\obj\Debug\Projeto.Domain.csprojAssemblyReference.cache
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\obj\Debug\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\obj\Debug\Projeto.Domain.csproj.CopyComplete
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\obj\Debug\Projeto.Domain.dll
+C:\Projetos\Seguradora\FONTES_DOTNET\Sinaf Seguros\SinafSeg\Servicos\ArquivoKitDigital\Projeto.Domain\obj\Debug\Projeto.Domain.pdb
